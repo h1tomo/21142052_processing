@@ -28,7 +28,7 @@ float angleF43 = 0;
 float angleT1 = 0;
 float angleT2 = 0;
 
-float dif = 2.0;
+float dif = 1.0;
 
 boolean f=false;
 boolean F=false;
